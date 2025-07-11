@@ -1,0 +1,4 @@
+.active-shadow{
+    cursor: pointer;
+    box-shadow: 0 -4px 1px 0px #ffffff inset
+}
